@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - 💼 Currently working as a freelance web developer | project manager.
 - 🌱 I’m currently learning Vue.js and studying for the AWS Solutions Architect certification.
-- 💬 Let's collaborate on projects (JS | Python | AWS)
-
+- 💬 Let's collaborate on web development projects!
 
 ## 🛠️ Tech Stack
 <p align="left" style="background:white; padding:10px;">
