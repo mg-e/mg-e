@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 💬 Let's collaborate on projects (JS | Python | AWS)
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 <p align="left" style="background:white; padding:10px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
