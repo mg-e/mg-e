@@ -1,6 +1,6 @@
 # Hi there, I'm mg-e! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love to create innovative solutions to challenging problems.
+Welcome to my GitHub profile! I'm passionate about web development and love to create innovative solutions to challenging problems.
 
 ## 👨‍💻 About Me
 
